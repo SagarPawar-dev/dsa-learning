@@ -1,0 +1,12 @@
+# VS Code configuration
+.vscode/
+
+# Input and output files used for CP/DSA testing
+input.txt
+output.txt
+
+# Compiled binaries and build artifacts
+*.out
+*.exe
+*.o
+
